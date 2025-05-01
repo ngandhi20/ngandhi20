@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **ngandhi20/ngandhi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hello+👋;+I'm+Nili!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi, nice to meet you!+👋;+I'm+Nili!;" />
 </h1>
 
 ### A prospective computer science graduate passionate about creating applicable, functional and appealing web applications.
@@ -32,6 +33,7 @@ Here are some ideas to get you started:
 
 <hr>
 
+<h3>My contributions</h3>
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngandhi20/ngandhi20/output/github-contribution-grid-snake-dark.svg" />
