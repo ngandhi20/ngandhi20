@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=+Hi,+nice+to+meet+you!+👋;+I'm+Nili!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=+Hi+,+nice+to+meet+you!;+I'm+Nili!+👋;" />
 </h1>
 
 ### A prospective computer science graduate passionate about creating applicable, functional and appealing web applications.
