@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### A Data Science student committed to becoming proficient in analyzing and manipulating datasets with Python to uncover actionable insights and build data-driven applications.
 
 <br>
-
+<!--
 <div align="center">
   <a href="n.gandhi7788@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <a href="https://linkedin.com/in/nili-gandhi-32b5622a6" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-
+-->
 <hr>
 
 <h3>My contributions</h3>
