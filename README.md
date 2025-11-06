@@ -19,7 +19,7 @@ Here are some ideas to get you started:
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=+Hello+there!;+I'm+Nili!+👋;" />
 </h1>
 
-### A Data Science student committed to become proficient in analyzing and manipulating datasets with Python to uncover actionable insights and build data-driven applications.
+### A Data Science student committed to becoming proficient in analyzing and manipulating datasets with Python to uncover actionable insights and build data-driven applications.
 
 <br>
 
